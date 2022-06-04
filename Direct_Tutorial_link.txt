@@ -1,0 +1,2 @@
+Step by Step on how to connect ec2:https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html#ec2-launch-instance
+working with git version control: https://code.visualstudio.com/docs/editor/versioncontrol
