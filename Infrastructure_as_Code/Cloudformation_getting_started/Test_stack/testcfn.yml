@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: Carlos Rivas / Udacity - This template deploys a VPC
+Description: Onaido Mutairu / Udacity - This template deploys a VPC
 Resources:
   UdacityVPC:
     Type: 'AWS::EC2::VPC'
